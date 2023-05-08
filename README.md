@@ -6,4 +6,4 @@ The modular framework should enable a larger number of concurrent activity and p
 
 Currently we are organising things, preparing, salvaging a pioneer robot, and integrating ROS2... going off track and learning new things (but that’s ok as we don't have a deadline). This group is designed to be low pressure, skill share and enabling self-learning, but we do pursue novel research in a pick & mix style and at a gradual pace.
 ![framework](https://user-images.githubusercontent.com/129985908/236829570-ca32c6af-582f-48f3-8efd-65ffefc385a5.png)
-Image credit not mine, it's just a quick slide trying to convey the idea of what we want to do.
+Individual image credit not mine, it's just a quick slide I made trying to convey the ideas of what we want to do.
